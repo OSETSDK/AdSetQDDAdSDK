@@ -18,11 +18,11 @@
 		</data>
 		<key>Headers/AdSetQDDBaseAd.h</key>
 		<data>
-		tfaX5u43GUAarmHNQhoPCLdjTcw=
+		SUE/NguAtlCkxwx/SX1N5B9heuI=
 		</data>
 		<key>Headers/AdSetQDDBaseAdConfigParams.h</key>
 		<data>
-		1Nz8cNfeMI/WBOrB4+5Kl75dmZg=
+		jO+wDH1pRVE4v+JP258lMagiyDA=
 		</data>
 		<key>Headers/AdSetQDDBaseViewAd.h</key>
 		<data>
@@ -30,43 +30,43 @@
 		</data>
 		<key>Headers/AdSetQDDCPBannerAdConfigModel.h</key>
 		<data>
-		gb97imQd+lXbcZrg8rJx8tV6weQ=
+		+8/AfTMv6Z7cyrGnUvpBS4ISab0=
 		</data>
 		<key>Headers/AdSetQDDCPDrawAdConfigModel.h</key>
 		<data>
-		9Blqhi6dlA/yZOujo87CKjMYayg=
+		9KWp1ab2XBhExoaxBJCA0BZu9No=
 		</data>
 		<key>Headers/AdSetQDDCPFullVideoAdConfigModel.h</key>
 		<data>
-		y69I+liaZfFcX4vMxJ8jMfTsWuA=
+		aQIYkcxnyM3b4DX6h+n9viKzEu8=
 		</data>
 		<key>Headers/AdSetQDDCPInterstitialAdConfigModel.h</key>
 		<data>
-		Vo7RLkF3hY7shx6//OLfJqx6VSk=
+		T+qHIXBuaqIYUqNkRWXCQYNAY7A=
 		</data>
 		<key>Headers/AdSetQDDCPRewardAdConfigModel.h</key>
 		<data>
-		tOjdhdWcyGDmjt1WUMVyCEHYuj0=
+		uCSOcpUA/aTC9zQbPsXzsRZSFtg=
 		</data>
 		<key>Headers/AdSetQDDCPSDKConfigModel.h</key>
 		<data>
-		Fbeuv3TwKc5ph04RPJUR6667ltc=
+		NaLD1QFe/F3SkxXf32TwjCjhgKs=
 		</data>
 		<key>Headers/AdSetQDDCPSplashAdConfigModel.h</key>
 		<data>
-		DoBitm2qfHrrwHwXrIeC4MP1QNw=
+		zClwEg5z14L5DcIYFEMZZVuwUME=
 		</data>
 		<key>Headers/AdSetQDDCPVideoAdConfigModel.h</key>
 		<data>
-		mC0A3IaSfnAvvQIVoC8rFO3kjAE=
+		pwHe0nlyf/RdttXKMUMSTD1wvX0=
 		</data>
 		<key>Headers/AdSetQDDConfig.h</key>
 		<data>
-		opG3NET0NRUGAl7/Oczn+WyF1sk=
+		MfPuswetmUJA/h65vvsON8jyBn0=
 		</data>
 		<key>Headers/AdSetQDDCustomAdapterProtocol.h</key>
 		<data>
-		jSwrbrRZENiKOzJI9Gp6UDWdZow=
+		hgCgaZME2RQ8YnefeDN52BYhAzI=
 		</data>
 		<key>Headers/AdSetQDDCustomBannerAdapterProtocol.h</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Headers/AdSetQDDCustomNativeEventProtocol.h</key>
 		<data>
-		PEjOqrYpopvBR753NhWGoo4HQMo=
+		qWY1E7QASa5fuN5Pd6tg2vnzapA=
 		</data>
 		<key>Headers/AdSetQDDCustomPrerenderAdapterProtocol.h</key>
 		<data>
@@ -146,7 +146,7 @@
 		</data>
 		<key>Headers/AdSetQDDDrawAd.h</key>
 		<data>
-		uiN4W3dt025BEGYE9LTvar/MivI=
+		+AQw1Ozv6cxHdnk0gqMq8MIgb8I=
 		</data>
 		<key>Headers/AdSetQDDDrawAdDelegate.h</key>
 		<data>
@@ -162,15 +162,15 @@
 		</data>
 		<key>Headers/AdSetQDDExpressFullScreenVideoAdDelegate.h</key>
 		<data>
-		ah5lkU1teN7aw+5a2Qw5zlOakqc=
+		L3DVu4qUuli7JevPABw6zbPmxng=
 		</data>
 		<key>Headers/AdSetQDDFeedAdMeta.h</key>
 		<data>
-		IpLjNGQ4Hvagp1S7wh/fZvzVsgM=
+		vbVyX1JFjxw2+1H4h7GIu/7EIcM=
 		</data>
 		<key>Headers/AdSetQDDFeedVideoConfig.h</key>
 		<data>
-		m5VYs1jjS0VUEj0yrQY1HXWWLoQ=
+		JBN1WayqEskMwGtI/larqSlDda4=
 		</data>
 		<key>Headers/AdSetQDDFeedVideoDelegate.h</key>
 		<data>
@@ -182,7 +182,7 @@
 		</data>
 		<key>Headers/AdSetQDDFeedVideoView.h</key>
 		<data>
-		mYFGu8zvyPaeAj7Q65UeOYZTneU=
+		tkaR33sndMkYFFRWHBmTWMWYYKU=
 		</data>
 		<key>Headers/AdSetQDDInterstitialAd.h</key>
 		<data>
@@ -198,7 +198,7 @@
 		</data>
 		<key>Headers/AdSetQDDNativeCustomVideoAdView.h</key>
 		<data>
-		mJgZem0nabLnbYZtoaMl1knEHmM=
+		I/6cMi6jBsdy2cFJICP1Pnuytms=
 		</data>
 		<key>Headers/AdSetQDDNativeFeedAd.h</key>
 		<data>
@@ -206,15 +206,15 @@
 		</data>
 		<key>Headers/AdSetQDDNativeFeedAdConfigModel.h</key>
 		<data>
-		K/whJXpKaugg9agOLBjEDP6/hck=
+		h+aWoosEkAuKoIJPr+bbFZx2/IY=
 		</data>
 		<key>Headers/AdSetQDDNativeFeedAdDelegate.h</key>
 		<data>
-		7kRUHXamCUvHHemEOiR2E2BzCUU=
+		14R8VDs+MMs+j1834nGQ5fMvC0Q=
 		</data>
 		<key>Headers/AdSetQDDNativeFeedAdModel.h</key>
 		<data>
-		BScvQWZJMEjOUMo2kze8nIFgGPc=
+		LqWY/cTqe8oeIeoKQ6aY7ozNhJg=
 		</data>
 		<key>Headers/AdSetQDDPublicHeader.h</key>
 		<data>
@@ -226,23 +226,23 @@
 		</data>
 		<key>Headers/AdSetQDDRewardVideoAdDelegate.h</key>
 		<data>
-		Il2xAmAc7UQB6tOnncH5I65e6GI=
+		zqI34j2x5NZIegP+IIXXgMRQajo=
 		</data>
 		<key>Headers/AdSetQDDSDKDefines.h</key>
 		<data>
-		cRWMYrdWLJCf+m4PnH0RcL4H2eA=
+		/n0KEJxSGS6bHDDjLruadSuCp0c=
 		</data>
 		<key>Headers/AdSetQDDSplashAd.h</key>
 		<data>
-		og74sMYwfodTOdjD/AQcO30HI08=
+		eyjxcC8zr/F8JlACsa8UYdH9204=
 		</data>
 		<key>Headers/AdSetQDDSplashAdDelegate.h</key>
 		<data>
-		huWvoEHxV3L0kiWCLOa0BWTN6ss=
+		LjELmUOdfhzEA1zWoLF1E26ADKE=
 		</data>
 		<key>Headers/AdSetQDDVideoAd.h</key>
 		<data>
-		D1upFE+opQCwqm4eX6AeAxQvOR8=
+		QqJpARiSK9S6xSuSZHQkE4y+Xxo=
 		</data>
 		<key>Headers/AdSetQDDVideoAdDelegate.h</key>
 		<data>
@@ -250,7 +250,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		YflPYstCy3T1Xp6Nb1N0n6wTvDU=
+		/shsnUxIe85b2Yq5A23TI9SzWLo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -261,10 +261,6 @@
 	<dict>
 		<key>Headers/AdSetQDDAdSDK.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3aWgIDUWDl4QhjneUvqPv2RUwDs=
-			</data>
 			<key>hash2</key>
 			<data>
 			6z45vfCiNR0CoTEQ7CCetNp9wB1nvC5HyYeyxQ9cMeE=
@@ -272,10 +268,6 @@
 		</dict>
 		<key>Headers/AdSetQDDBannerView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oDYQ1pGZB6cdv0UGmK4YntBGR00=
-			</data>
 			<key>hash2</key>
 			<data>
 			VVI42IN/qjf5E/+E2wBvSYtI9bQAhhxIN1Jymz265RA=
@@ -283,10 +275,6 @@
 		</dict>
 		<key>Headers/AdSetQDDBannerViewDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vX3SEjoMGFwoPxXZtxgbsJaYjLE=
-			</data>
 			<key>hash2</key>
 			<data>
 			T5l2L+TGMQeoZfqEQxL8dLTRD4pdpIPFHwUN4V1eZjs=
@@ -294,32 +282,20 @@
 		</dict>
 		<key>Headers/AdSetQDDBaseAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tfaX5u43GUAarmHNQhoPCLdjTcw=
-			</data>
 			<key>hash2</key>
 			<data>
-			3LHkxjJ49Wdh7RZU9KhH4jHEWb0peAy7vFhbrMwilsk=
+			iAcnOjZuseQ7V33gWJLoQ4G6ZCA9fSq2OR3Tqb1GqCU=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDBaseAdConfigParams.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1Nz8cNfeMI/WBOrB4+5Kl75dmZg=
-			</data>
 			<key>hash2</key>
 			<data>
-			CaY9aNLwcH6jSLcPE5TvHi5ZpuJ2QGRvhB6HXelG3hY=
+			xQfRLPLg4zTHbfT+H4Onmvgj01SVciLCJ0s7Lqtdxp4=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDBaseViewAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LblzErqEHPnOf1FCPcGnjBeEKFI=
-			</data>
 			<key>hash2</key>
 			<data>
 			bhjbmRJ4X17pPGOU3kuC6kOfhs64p0cjtbJKIPwLws4=
@@ -327,120 +303,76 @@
 		</dict>
 		<key>Headers/AdSetQDDCPBannerAdConfigModel.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gb97imQd+lXbcZrg8rJx8tV6weQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			kbZHjx8k1fPH5iJiAelYgpgyqvzCZ4uCVAXnq5DZk6U=
+			LHZtkUAJLkx3EVaRk3nrFTBFkGNr3z/B0uN1jqMdYlc=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDCPDrawAdConfigModel.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9Blqhi6dlA/yZOujo87CKjMYayg=
-			</data>
 			<key>hash2</key>
 			<data>
-			89y3pZLBeooPhs48MnwwvoRTIMtV5+d7AXN4A4VgWwk=
+			NbeqNpl3RU23YvnsTJSt3FebNmlHwDFlKmeKfsmwDJk=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDCPFullVideoAdConfigModel.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			y69I+liaZfFcX4vMxJ8jMfTsWuA=
-			</data>
 			<key>hash2</key>
 			<data>
-			7q47mTj/jZgKz8TPELV+mHBPdBybKeLloArxYdU8kLg=
+			GoU98R1jGUFBBZjmNHujH9rxn3+D6Uafmw1ic/XHlKk=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDCPInterstitialAdConfigModel.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Vo7RLkF3hY7shx6//OLfJqx6VSk=
-			</data>
 			<key>hash2</key>
 			<data>
-			lE3zrLgEyWi5GIhAOxFhw3m+aG969PMJWjAN4RRhLy4=
+			revq1XWb6h49LUoKxvi/SmsJlFu2f+/kD8nHnRELTww=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDCPRewardAdConfigModel.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tOjdhdWcyGDmjt1WUMVyCEHYuj0=
-			</data>
 			<key>hash2</key>
 			<data>
-			YpJiesc12DlcjQj+32nFTSXiDRnCS+bLqzdg31bkZus=
+			Oo+JaHqjUO5d1+x6vkx0Nb4rQqhnvC6jCKzWikE05kc=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDCPSDKConfigModel.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Fbeuv3TwKc5ph04RPJUR6667ltc=
-			</data>
 			<key>hash2</key>
 			<data>
-			Q9EQ6Cu5I0vaTHT9apL/eB4JRMtNY9sUmp5F3hHhByA=
+			6qmUL+TDz6KijR1UCkVv3kuxi0zsUHlrExhFB6k18d0=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDCPSplashAdConfigModel.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DoBitm2qfHrrwHwXrIeC4MP1QNw=
-			</data>
 			<key>hash2</key>
 			<data>
-			hWJmv/22NRNJ2c4tydBDnM/bmL+1yKtyNAPJwI8OOG0=
+			9ND+Fxt5l5GwopDaYLYBxNJP2w66KfgAqqUmHIVb48g=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDCPVideoAdConfigModel.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mC0A3IaSfnAvvQIVoC8rFO3kjAE=
-			</data>
 			<key>hash2</key>
 			<data>
-			jsthzRg3LCeO8SmRqg7AH44LxmBoM09u/sM63E/q43U=
+			qW21GRAeZl7Obrt3t79zhzZmAAYwAQ9icQIInlTibNs=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDConfig.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			opG3NET0NRUGAl7/Oczn+WyF1sk=
-			</data>
 			<key>hash2</key>
 			<data>
-			qrAG7JF5sbBAwaDsugpq3NkFxR3RtrfWkPcaU8XJ+BQ=
+			eaUfkH8BnQmHH6LmaEEKoKdqeZBqqFS5rKLfzUuQ7rk=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDCustomAdapterProtocol.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jSwrbrRZENiKOzJI9Gp6UDWdZow=
-			</data>
 			<key>hash2</key>
 			<data>
-			X2piN0NAgtjHDS0F94LRezhasM1H7tYNPlEcKfrv3uA=
+			f8VJqXeYJn1xak0SI2WnTrybrusXAf8Z7p3zsinhErg=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDCustomBannerAdapterProtocol.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hm+H+EGI4IClU51ECz4uUpJeKOc=
-			</data>
 			<key>hash2</key>
 			<data>
 			1avuEh58n1v7leW3PX60FCELgqNbXnCaTKnw78UtbX4=
@@ -448,10 +380,6 @@
 		</dict>
 		<key>Headers/AdSetQDDCustomBannerEventProtocol.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XO1SP1yAjbpy96oXUyePCzsLggE=
-			</data>
 			<key>hash2</key>
 			<data>
 			VOJC0s/pATNinfemt5E8deqgVvxxJ0AIvHxPBHrXmoM=
@@ -459,10 +387,6 @@
 		</dict>
 		<key>Headers/AdSetQDDCustomConfigAdapterProtocol.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KklH3ti7WbarfeDhkKn5xWBcnuM=
-			</data>
 			<key>hash2</key>
 			<data>
 			FCqBb7G2hNyedngucVaqdcdkkFvfjri4KKl8bmta0F4=
@@ -470,10 +394,6 @@
 		</dict>
 		<key>Headers/AdSetQDDCustomDrawAdapterProtocol.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Bw8Zqxh0eBTj2g4avcBxe6PNvOA=
-			</data>
 			<key>hash2</key>
 			<data>
 			hnCQpgoGVxrqyI8LkBbhRZRWtH++BS0D07FXcFEciDY=
@@ -481,10 +401,6 @@
 		</dict>
 		<key>Headers/AdSetQDDCustomDrawEventProtocol.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yletE0Kr9RfcSEajiO7Je9za+hk=
-			</data>
 			<key>hash2</key>
 			<data>
 			pQoisUTGl3P7vLXsxNQeZ49CnXH/G817iS2k6RPxvG4=
@@ -492,10 +408,6 @@
 		</dict>
 		<key>Headers/AdSetQDDCustomFullScreenVideoAdapterProtocol.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			iE0wKBX+rAfItlJSSunji0qZve0=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZfEvfp4aEhKO4uGeXcbcd3htokK78fCPHsJxUXZAuwU=
@@ -503,10 +415,6 @@
 		</dict>
 		<key>Headers/AdSetQDDCustomFullScreenVideoEventProtocol.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2akheIMyp9Ogyn8UVYUVbeS+RUg=
-			</data>
 			<key>hash2</key>
 			<data>
 			9cSHKtc3Rr5liKZyySDHKpnuMcz/cOQOeYSiaxO9xRk=
@@ -514,10 +422,6 @@
 		</dict>
 		<key>Headers/AdSetQDDCustomInterstitialAdapterProtocol.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gWwJDy3UaTDZ8+eqk9Jl3SuMYNI=
-			</data>
 			<key>hash2</key>
 			<data>
 			ckDJRTbsl/K+lJyizGlu2lT0uOeSSvp1rjpLABVGgBk=
@@ -525,10 +429,6 @@
 		</dict>
 		<key>Headers/AdSetQDDCustomInterstitialEventProtocol.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0J8WICYOAKeYAWrxP4vLM2qVLHc=
-			</data>
 			<key>hash2</key>
 			<data>
 			4okCsAQ7EmZgKVJVFkqGMngZrmhIenjOPnkgEh3x7p4=
@@ -536,10 +436,6 @@
 		</dict>
 		<key>Headers/AdSetQDDCustomNativeAdapterProtocol.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XyxDCfjfmtUKZgsDC/Y/iwgGgh8=
-			</data>
 			<key>hash2</key>
 			<data>
 			4jr5agVR9y0+YM4D4j+9ouUE9/gl3m87AhZJXwTLaUw=
@@ -547,21 +443,13 @@
 		</dict>
 		<key>Headers/AdSetQDDCustomNativeEventProtocol.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PEjOqrYpopvBR753NhWGoo4HQMo=
-			</data>
 			<key>hash2</key>
 			<data>
-			y0OJaqT6lbcuU2BdKyByJhvbT7iWRdqP6ebpvyCF1Js=
+			ncDNP/Ykw+7ksSHDDu+lGdivSI9/5eu7wwJQRC+euvw=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDCustomPrerenderAdapterProtocol.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			s6DAkHiomEbavkYU/9JikBe2uk0=
-			</data>
 			<key>hash2</key>
 			<data>
 			8UKt415gxxZF2ASuG5dHTU8NHafAbORkc/bBcA8bzko=
@@ -569,10 +457,6 @@
 		</dict>
 		<key>Headers/AdSetQDDCustomPrerenderEventProtocol.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qSefEF7tJ92d6kSNopNgncfjYnE=
-			</data>
 			<key>hash2</key>
 			<data>
 			4ngTt/ZMp0jyH/ToemW4+vERM7EpMDZzz51DkN7k0PE=
@@ -580,10 +464,6 @@
 		</dict>
 		<key>Headers/AdSetQDDCustomRewardAdapterProtocol.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			K8DdcjeZy/gYxFSTDQfMf4y6Pvs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8j4+vLCFxRInAMvnpCQ+8IdtI1DU6Ve4FZDztOr+8aY=
@@ -591,10 +471,6 @@
 		</dict>
 		<key>Headers/AdSetQDDCustomRewardEventProtocol.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9YBl9A8fEED6tQuwiwonmyRIR1I=
-			</data>
 			<key>hash2</key>
 			<data>
 			oUdMBghs/OyKMD+FCKXZPdZEblGmrb0Z+DekTqi7Vc8=
@@ -602,10 +478,6 @@
 		</dict>
 		<key>Headers/AdSetQDDCustomSplashAdapterProtocol.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mpGItig9Agmlop/VWp4Cf5nXrcg=
-			</data>
 			<key>hash2</key>
 			<data>
 			HIrqCEWri7Y1IkfG7fxp2k8k79VyhLo6zYdCMUfsroI=
@@ -613,10 +485,6 @@
 		</dict>
 		<key>Headers/AdSetQDDCustomSplashEventProtocol.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+zmsbxbW8DbKn+7Jyre3/LpI49k=
-			</data>
 			<key>hash2</key>
 			<data>
 			ERaIibXDkRU6x7b+JppFXSPDanx2BlHdKNFcnQeJiHo=
@@ -624,10 +492,6 @@
 		</dict>
 		<key>Headers/AdSetQDDCustomVideoAdapterProtocol.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SWjMIWvjK6PrcXHL+nmjCHOhwLc=
-			</data>
 			<key>hash2</key>
 			<data>
 			+KMlDbTmCPlok5S4vDEpuyvbc0QnBP2sSbWHtLTBUXM=
@@ -635,10 +499,6 @@
 		</dict>
 		<key>Headers/AdSetQDDCustomVideoEventProtocol.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5Nm03DJchkPcis12Z4RX+433M+Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			cnKLh7bIM72irkQOX591N55zM6l48lx+xm8B/PiSQes=
@@ -646,21 +506,13 @@
 		</dict>
 		<key>Headers/AdSetQDDDrawAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uiN4W3dt025BEGYE9LTvar/MivI=
-			</data>
 			<key>hash2</key>
 			<data>
-			mC1MDqqT9sDx8qTZefKzM5T1vxG7KgEKj9vSpYAJodc=
+			NnU6rmA+KklWxwbJmovKLmp5tNVkBW8IX2QJdVZeHWc=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDDrawAdDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XyGOIK4TrDJZfrNK1StI63C7isI=
-			</data>
 			<key>hash2</key>
 			<data>
 			yO14eFRTcvIXQ3Hio9jukQHLScBpigNXgzF0Nf1a8P4=
@@ -668,10 +520,6 @@
 		</dict>
 		<key>Headers/AdSetQDDDrawAdManager.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CfCK/rVegg2WfKglkMo3hywSFCQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			jrLSqWGpGPpx2vViT+OtJqKyASAO78bKH+/xDdQEOWM=
@@ -679,10 +527,6 @@
 		</dict>
 		<key>Headers/AdSetQDDExpressFullScreenVideoAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			D5bB74gRFcEiQOeVhew1dP+sIeQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			wJZxFYimNB6cZO3BQh4A8FPMgk8oFRwFnXOzb4DiARs=
@@ -690,43 +534,27 @@
 		</dict>
 		<key>Headers/AdSetQDDExpressFullScreenVideoAdDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ah5lkU1teN7aw+5a2Qw5zlOakqc=
-			</data>
 			<key>hash2</key>
 			<data>
-			cmxCALDmnbksnIrR1knhE2CI62sPcIaV6Jp8yt9v9L8=
+			BzXQYmzdbGu0zuhGUcZkLI0L6v9tdnJ1x+FllRi6RKw=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDFeedAdMeta.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IpLjNGQ4Hvagp1S7wh/fZvzVsgM=
-			</data>
 			<key>hash2</key>
 			<data>
-			B6WJU1EXku0sxSM/wOE4W0zNtNUbxgBcTA2ugEuXoC8=
+			5SlzvtwySUlgsj0ShtGiqafDBG/ymthZyFiSCh8thDI=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDFeedVideoConfig.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			m5VYs1jjS0VUEj0yrQY1HXWWLoQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			MwL3FI2Kd4HJPuqptiRtxfb/kdxD/6zexLNEu7477Jg=
+			GAMpyHi2rNaTRRoKJjlyxonfxvc2aTcWXpcYOdHsnZY=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDFeedVideoDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hQzZ4rOtOF3VPCItMRvghsPy+hI=
-			</data>
 			<key>hash2</key>
 			<data>
 			fk/WxNxV2pSuXnxjXNjpnw+JPUuSpM7Cwl6QH9KcfjY=
@@ -734,10 +562,6 @@
 		</dict>
 		<key>Headers/AdSetQDDFeedVideoInterface.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LInfLk8BWuJoaHPlSPvQQhcmjYE=
-			</data>
 			<key>hash2</key>
 			<data>
 			eZJk0DvyRdK4jcVMlGaXzcvrAztGZY9PglPAziBUieE=
@@ -745,21 +569,13 @@
 		</dict>
 		<key>Headers/AdSetQDDFeedVideoView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mYFGu8zvyPaeAj7Q65UeOYZTneU=
-			</data>
 			<key>hash2</key>
 			<data>
-			6gXN9HZvhdl3WbkKDJj6n8njhn4m8PdvoovFIgVXp4o=
+			CCUIBnM5Y1v+gDDnyGaonFq4meyD2IC+8n2I5bQvOt0=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDInterstitialAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TzXpXtz9SS8S9T4GGFYpkvTkQdw=
-			</data>
 			<key>hash2</key>
 			<data>
 			KqhAX/8BEh5vYGl5AZAlBSUVQD2AAkfybLlXQrMclN4=
@@ -767,10 +583,6 @@
 		</dict>
 		<key>Headers/AdSetQDDInterstitialDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1WQsijU9Xt0vpjFONzY6lzs2a80=
-			</data>
 			<key>hash2</key>
 			<data>
 			gYcsnaA2Wux8Lem6yhi3yqsxLjnOZ+AC+NtRqs66Ehg=
@@ -778,10 +590,6 @@
 		</dict>
 		<key>Headers/AdSetQDDNativeCustomAdView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			t5flqPehLtx8sy2WX8s+Q4k2FDs=
-			</data>
 			<key>hash2</key>
 			<data>
 			53k1mYWxlTDlHAhqheZAXvquii9xcH6B4dpAx+SsIzM=
@@ -789,21 +597,13 @@
 		</dict>
 		<key>Headers/AdSetQDDNativeCustomVideoAdView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mJgZem0nabLnbYZtoaMl1knEHmM=
-			</data>
 			<key>hash2</key>
 			<data>
-			K7gKoFQa7PUcSaWRpuV++erD1mSaOdZbnxNkajBipqk=
+			wfwyfbpdjRd3MohRYoGOBpgOB/LlA5JyOICOGwPllCA=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDNativeFeedAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zSu9lqv9xp+4/ItxZzVrtdAbO68=
-			</data>
 			<key>hash2</key>
 			<data>
 			avuXb845v8Qvht++cAEdOYowHTb5k6OTHo3KyClqQZU=
@@ -811,43 +611,27 @@
 		</dict>
 		<key>Headers/AdSetQDDNativeFeedAdConfigModel.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			K/whJXpKaugg9agOLBjEDP6/hck=
-			</data>
 			<key>hash2</key>
 			<data>
-			LK2jndMYgMtabFvUhbCqYqwLb5ZEiQc9bClHmq4f4EE=
+			uCm/dsEmiOaIdmSxdKC9Y4sXNH7cA1P8lkhEKRWVTgk=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDNativeFeedAdDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7kRUHXamCUvHHemEOiR2E2BzCUU=
-			</data>
 			<key>hash2</key>
 			<data>
-			oehChBWrfyou5oahGvOVOfOEZSkQkZfuki57x5rOpA0=
+			rQhBzK2sjy8o11IGiZrWK9fl4SEOJW6zXJn/dyMx+IM=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDNativeFeedAdModel.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BScvQWZJMEjOUMo2kze8nIFgGPc=
-			</data>
 			<key>hash2</key>
 			<data>
-			FB6Vfak9Gl5mO59qQJqhh/Y6ILQkQ2P1/S23hO7pSAo=
+			bkvgzHtMN2+H+KpTKgXTnE2LCft85kc/dpZMpNnKeF0=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDPublicHeader.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1jNBtgVzmqdTl++2uIP0la72idU=
-			</data>
 			<key>hash2</key>
 			<data>
 			ienRErFKuJbDeRBdbju3KBvEZlGYkdn/Fmf/DG4mQTU=
@@ -855,10 +639,6 @@
 		</dict>
 		<key>Headers/AdSetQDDRewardVideoAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dERvtZr0Md/nq7rzYRRQ2mxOAt4=
-			</data>
 			<key>hash2</key>
 			<data>
 			xF+Bel1xd/kD9s1nNHSiVq4N1T8x/p9/mOFx9eJcyXM=
@@ -866,65 +646,41 @@
 		</dict>
 		<key>Headers/AdSetQDDRewardVideoAdDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Il2xAmAc7UQB6tOnncH5I65e6GI=
-			</data>
 			<key>hash2</key>
 			<data>
-			jfSp5N3OHdh32//dqosRfRKMv63XsyyZiv5KoYL4iX4=
+			F+WuTtqz+yEoXKXhUF1KJX5J8ifPIW9QVmohynesAoY=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDSDKDefines.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cRWMYrdWLJCf+m4PnH0RcL4H2eA=
-			</data>
 			<key>hash2</key>
 			<data>
-			Z1NjG44o1UK1B/N2CZouaamCiceXPenOcN2pG2kAer8=
+			Eyr/KMtPNSxMhBItCpL2a73p1kMA6hF7t12r1w09Wds=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDSplashAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			og74sMYwfodTOdjD/AQcO30HI08=
-			</data>
 			<key>hash2</key>
 			<data>
-			VGSBtkQG4T4vqMJvF0RtXqJXH0ABltN++dKHo3Nm1Ps=
+			iD5v1I4YAaUbRpZMXGUa3hrngiLg+YpQnTTwJCvAySw=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDSplashAdDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			huWvoEHxV3L0kiWCLOa0BWTN6ss=
-			</data>
 			<key>hash2</key>
 			<data>
-			nWRVLbWH5fsovdxg6HA/t8rwbOhc7ol3UYQc7trdFio=
+			vzqyHAXEuvzUvokaFRlS42B3a/9uTCcjyxguMU5KoBo=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDVideoAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			D1upFE+opQCwqm4eX6AeAxQvOR8=
-			</data>
 			<key>hash2</key>
 			<data>
-			zUT6VRgmFcDAKk7Y/oOauGWwZwaHEFK0QgBP5Phr2oo=
+			m+LBBmdSUSbkG3FrEVHfClosFTFwHequb1MIOaPDtd4=
 			</data>
 		</dict>
 		<key>Headers/AdSetQDDVideoAdDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			y7dmUmIxvhcFq/kWp0U5hgq7BW0=
-			</data>
 			<key>hash2</key>
 			<data>
 			BaOc/rIzkb7oJq3exJ64tqj+IemStRFUUSNzlwgpxhA=
@@ -932,10 +688,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JqNGQJYwl4MaJB2n0iNdwQ1wGcg=
-			</data>
 			<key>hash2</key>
 			<data>
 			IohQULNHOLGUqcbAtraI017tB6dvTTefuu1xhopE3uc=

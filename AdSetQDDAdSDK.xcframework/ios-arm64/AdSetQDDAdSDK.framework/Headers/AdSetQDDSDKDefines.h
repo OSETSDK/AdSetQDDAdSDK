@@ -20,7 +20,7 @@ typedef NS_ENUM(NSInteger,AdSetQDDLogLevel) {
  广告平台
  */
 typedef NS_ENUM(NSInteger, AdSetQDDPlatform) {
-    AdSetQDDPlatformAdSetQDD      = 0, // AdSetQDD
+    AdSetQDDPlatformAdSetQDD      = 0, // 神蓍
     AdSetQDDPlatformGDT     = 1, // 广点通
     AdSetQDDPlatformBU      = 2, // 穿山甲
     AdSetQDDPlatformBD      = 3, // 百度
@@ -94,6 +94,7 @@ typedef NS_ENUM(NSInteger,AdSetQDDErrorCode) {
     AdSetQDDErrorCodeADSDKInitError           = 800007,//初始化SDK异常
     AdSetQDDErrorCodeADSourceBiddingFailError = 800008,//广告源竞价失败
     AdSetQDDErrorCodeADRenderError            = 800009,//广告渲染失败
+    AdSetQDDErrorCodeADVideoPlayingError      = 800010,//视频播放失败
 };
 /**
  广告点击类型

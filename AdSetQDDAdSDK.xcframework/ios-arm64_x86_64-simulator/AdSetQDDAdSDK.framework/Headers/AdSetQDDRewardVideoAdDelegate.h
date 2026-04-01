@@ -54,20 +54,20 @@
 /**
  视频广告开始播放回调
  @param adsetqddRewardVideoAd AdSetQDDRewardVideoAd 实例
- 支持平台：AdSetQDD、快手、百度
+ 支持平台：神蓍、快手、百度
  */
 - (void)adsetqddRewardVideoStartPlaying:(AdSetQDDRewardVideoAd *)adsetqddRewardVideoAd;
 /**
  视频广告暂停播放回调
  @param adsetqddRewardVideoAd AdSetQDDRewardVideoAd 实例
- 支持平台：AdSetQDD
+ 支持平台：神蓍
  */
 - (void)adsetqddRewardVideoStopPlaying:(AdSetQDDRewardVideoAd *)adsetqddRewardVideoAd;
 /**
  视频广告恢复播放回调
  @param adsetqddRewardVideoAd AdSetQDDRewardVideoAd 实例
  用户触发某些跳转逻辑后再次回到当前页面观看视频时触发，比如点击广告跳转落地页、跳出应用再次回到应用等场景
- 支持平台：AdSetQDD
+ 支持平台：神蓍
  */
 - (void)adsetqddRewardVideoResumePlaying:(AdSetQDDRewardVideoAd *)adsetqddRewardVideoAd;
 /**
@@ -98,8 +98,8 @@
  {
   @"GDTRewardInfo" : 字典，//广点通返回的信息,注意此字段只有广点通平台激励视频才会返回，媒体获取时务必检查是否为空
   @"rewardVerify"  : @"1",//是否达到发放奖励条件，此值为必传项，取值范围【0-1】，0:未达到，1:达到
-  @"rewardName"    : @"各种豆",//奖励名称，该值可能为空，可在AdSetQDD平台进行配置
-  @"rewardAmount"  : @"10",//奖励数量，该值可能为空，可在AdSetQDD平台进行配置
+  @"rewardName"    : @"各种豆",//奖励名称，该值可能为空，可在神蓍平台进行配置
+  @"rewardAmount"  : @"10",//奖励数量，该值可能为空，可在神蓍平台进行配置
   @"rewardVerifyError" : @"未知错误",//服务端验证错误信息，该值可能为空
  }
  详解：是否支持服务端验证都会触发激励回调，其他详解请查看接入文档

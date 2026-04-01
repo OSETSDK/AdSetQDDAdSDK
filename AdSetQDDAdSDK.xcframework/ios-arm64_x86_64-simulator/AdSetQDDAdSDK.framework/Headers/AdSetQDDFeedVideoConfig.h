@@ -13,7 +13,7 @@ NS_ASSUME_NONNULL_BEGIN
 @interface AdSetQDDFeedVideoConfig : NSObject
 
 @property(nonatomic,assign) BOOL isMute;
-//视频是否自动播放，默认YES 仅AdSetQDD、广点通设置有效
+//视频是否自动播放，默认YES 仅神蓍、广点通设置有效
 @property(nonatomic,assign) BOOL isAutoPlay;
 
 @end

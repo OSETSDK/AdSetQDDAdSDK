@@ -60,7 +60,7 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)reSize:(CGRect)frame;
 /**
  广告是否有效
- 注意：仅广点通 AdSetQDD平台支持获取，其他平台默认YES
+ 注意：仅广点通 神蓍平台支持获取，其他平台默认YES
  */
 -(BOOL)isAdValid;
 /**

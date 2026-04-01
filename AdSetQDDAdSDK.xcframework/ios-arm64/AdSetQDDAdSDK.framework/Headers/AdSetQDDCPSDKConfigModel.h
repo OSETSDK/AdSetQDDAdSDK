@@ -10,24 +10,24 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-extern NSString *const kAdSetQDDCPSDKConfigShakableSwitchKey;//广告交互（摇一摇/扭一扭）开关
-extern NSString *const kAdSetQDDCPSDKConfigSensorSwitchKey;//传感器开关
-extern NSString *const kAdSetQDDCPSDKConfigMediaPidKey;//广告源广告位id
-extern NSString *const kAdSetQDDCPSDKConfigMediaAppKey;//广告源appkey
-extern NSString *const kAdSetQDDCPSDKConfigMediaExtKey;//媒体自定义参数
-extern NSString *const kAdSetQDDCPSDKConfigMediaAppidKey;//广告源appid
-extern NSString *const kAdSetQDDCPSDKConfigMediaReqUUIDKey;//本次请求ID
-extern NSString *const kAdSetQDDCPSDKConfigMediaCustomAdIdKey;//自定义idfa
-extern NSString *const kAdSetQDDCPSDKConfigMediaCustomIDFAKey;//自定义idfa
-extern NSString *const kAdSetQDDCPSDKConfigMediaCanUseIDFAKey;//是否可以获取IDFA
-extern NSString *const kAdSetQDDCPSDKConfigMediaOpenDebugLogKey;//log日志开关
-extern NSString *const kAdSetQDDCPSDKConfigMediaCustomLatitudeKey;//媒体自定义纬度
-extern NSString *const kAdSetQDDCPSDKConfigMediaCustomLongitudeKey;//媒体自定义经度
-extern NSString *const kAdSetQDDCPSDKConfigMediaCanUseLocationKey;//是否可以使用定位功能
-extern NSString *const kAdSetQDDCPSDKConfigMediaCustomUserAgentKey;//媒体自定义UA
-extern NSString *const kAdSetQDDCPSDKConfigMediaCanUseIPAddressKey;//是否可以使用IP
-extern NSString *const kAdSetQDDCPSDKConfigMediaCanUsePersonalRecommendKey;//是否开启个性化推荐
-extern NSString *const kAdSetQDDCPSDKConfigMediaCanUseSdkPermissionEnableKey;//是否开启设备新标志能力
+extern NSString *const kAdSetQDDAdSetQDDCPSDKConfigShakableSwitchKey;//广告交互（摇一摇/扭一扭）开关
+extern NSString *const kAdSetQDDAdSetQDDCPSDKConfigSensorSwitchKey;//传感器开关
+extern NSString *const kAdSetQDDAdSetQDDCPSDKConfigMediaPidKey;//广告源广告位id
+extern NSString *const kAdSetQDDAdSetQDDCPSDKConfigMediaAppKey;//广告源appkey
+extern NSString *const kAdSetQDDAdSetQDDCPSDKConfigMediaExtKey;//媒体自定义参数
+extern NSString *const kAdSetQDDAdSetQDDCPSDKConfigMediaAppidKey;//广告源appid
+extern NSString *const kAdSetQDDAdSetQDDCPSDKConfigMediaReqUUIDKey;//本次请求ID
+extern NSString *const kAdSetQDDAdSetQDDCPSDKConfigMediaCustomAdIdKey;//自定义idfa
+extern NSString *const kAdSetQDDAdSetQDDCPSDKConfigMediaCustomIDFAKey;//自定义idfa
+extern NSString *const kAdSetQDDAdSetQDDCPSDKConfigMediaCanUseIDFAKey;//是否可以获取IDFA
+extern NSString *const kAdSetQDDAdSetQDDCPSDKConfigMediaOpenDebugLogKey;//log日志开关
+extern NSString *const kAdSetQDDAdSetQDDCPSDKConfigMediaCustomLatitudeKey;//媒体自定义纬度
+extern NSString *const kAdSetQDDAdSetQDDCPSDKConfigMediaCustomLongitudeKey;//媒体自定义经度
+extern NSString *const kAdSetQDDAdSetQDDCPSDKConfigMediaCanUseLocationKey;//是否可以使用定位功能
+extern NSString *const kAdSetQDDAdSetQDDCPSDKConfigMediaCustomUserAgentKey;//媒体自定义UA
+extern NSString *const kAdSetQDDAdSetQDDCPSDKConfigMediaCanUseIPAddressKey;//是否可以使用IP
+extern NSString *const kAdSetQDDAdSetQDDCPSDKConfigMediaCanUsePersonalRecommendKey;//是否开启个性化推荐
+extern NSString *const kAdSetQDDAdSetQDDCPSDKConfigMediaCanUseSdkPermissionEnableKey;//是否开启设备新标志能力
 
 @interface AdSetQDDCPSDKConfigModel : NSObject
 //初始化SDK appid

@@ -67,7 +67,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  获取【模版广告】是否是视频
  注意：
- 1、仅AdSetQDD、快手、百度（智能优选、新优选需4.87版本才能获取）、广点通支持获取，其他平台不支持获取默认NO
+ 1、仅神蓍、快手、百度（智能优选、新优选需4.87版本才能获取）、广点通支持获取，其他平台不支持获取默认NO
  2、获取时机：adsetqddNativeFeedAdMaterialMetaReadySuccess后获取
  */
 @property(nonatomic,assign)BOOL isVideo;
@@ -96,6 +96,10 @@ NS_ASSUME_NONNULL_BEGIN
  注意：广告加载成功后获取
  */
 - (NSInteger)ecpm;
+/**
+ 当前广告物料请求id
+ */
+- (NSString *)adRequestIdentifier;
 @end
 
 NS_ASSUME_NONNULL_END

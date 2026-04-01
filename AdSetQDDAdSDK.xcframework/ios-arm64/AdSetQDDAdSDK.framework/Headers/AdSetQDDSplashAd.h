@@ -15,7 +15,7 @@ NS_ASSUME_NONNULL_BEGIN
  开屏图片或者视频素材尺寸
  提示：
  1、width & height 代表像素值
- 2、支持平台：【AdSetQDD】
+ 2、支持平台：【神蓍】
  */
 extern NSString *const kAdSetQDDAdMediaAdSplashSizeKey;
 

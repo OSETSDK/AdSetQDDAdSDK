@@ -54,7 +54,7 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)replayVideo;
 /**
  * 视频广告时长，单位 s
- * 支持获取的平台（百度、广点通 、AdSetQDD、快手）
+ * 支持获取的平台（百度、广点通 、神蓍、快手）
  * 获取时机：注意⚠️由于三方平台获取时机差异
  * 快手平台请在【registerDataObject绑定事件后获取】
  * 其余平台请在开始播放回调中获取
@@ -62,7 +62,7 @@ NS_ASSUME_NONNULL_BEGIN
 - (CGFloat)totalTime;
 /**
  * 视频广告已播放时长，单位 s
- * 支持获取的平台（广点通 、AdSetQDD）
+ * 支持获取的平台（广点通 、神蓍）
  * 获取时机：开始播放后获取
  */
 - (CGFloat)currentTime;

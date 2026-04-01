@@ -62,13 +62,13 @@ NS_ASSUME_NONNULL_BEGIN
  */
 - (void)setVideoMute:(BOOL)mute;
 /**
- 当前播放时间 仅AdSetQDD、广点通平台有效
+ 当前播放时间 仅神蓍、广点通平台有效
  @return 当前播放时间
  获取时机；调用showAdViewInContainer之后
  */
 - (NSTimeInterval)currentTime;
 /**
- 视频总时长 仅AdSetQDD、广点通平台有效
+ 视频总时长 仅神蓍、广点通平台有效
  @return 视频总时长
  获取时机；调用showAdViewInContainer之后
  */

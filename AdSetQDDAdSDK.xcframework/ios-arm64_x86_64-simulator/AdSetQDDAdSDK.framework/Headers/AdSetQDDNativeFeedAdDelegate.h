@@ -49,7 +49,7 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)adsetqddNativeFeedAdClick:(AdSetQDDNativeFeedAdModel *)feedAd;
 /**
  模版视频播放状态
- 注意：仅AdSetQDD、广点通、穿山甲会回调
+ 注意：仅神蓍、广点通、穿山甲会回调
  */
 - (void)adsetqddNativeFeedAdVideoStateDidChanged:(AdSetQDDPlayerPlayState)playerState
                                     feedAd:(AdSetQDDNativeFeedAdModel *)feedAd;

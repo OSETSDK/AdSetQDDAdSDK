@@ -10,15 +10,15 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-extern NSString *const kAdSetQDDCPFullVideoAdMediaDrawingKey;//请求开屏展示类型
-extern NSString *const kAdSetQDDCPFullVideoAdMediaVideoMutedKey;//设置视频静音开关
-extern NSString *const kAdSetQDDCPFullVideoAdMediaClkLimitKey;//广告交互类型
-extern NSString *const kAdSetQDDCPFullVideoAdMediaExpireTimestampKey;//广告过期时长
-extern NSString *const kAdSetQDDCPFullVideoAdMediaMediaExtConfigKey;//媒体个性化参数
-extern NSString *const kAdSetQDDCPFullVideoAdMediaAdnNameKey;//广告源名称
-extern NSString *const kAdSetQDDCPFullVideoAdMediaPresentVCKey;// 广告展示的控制器
-extern NSString *const kAdSetQDDCPFullVideoAdMediaAutoRenderKey;//是否自动渲染
-extern NSString *const kAdSetQDDCPFullVideoAdMediaADNAcceptIDKey;//当前广告源接受方ID
+extern NSString *const kAdSetQDDAdSetQDDCPFullVideoAdMediaDrawingKey;//请求开屏展示类型
+extern NSString *const kAdSetQDDAdSetQDDCPFullVideoAdMediaVideoMutedKey;//设置视频静音开关
+extern NSString *const kAdSetQDDAdSetQDDCPFullVideoAdMediaClkLimitKey;//广告交互类型
+extern NSString *const kAdSetQDDAdSetQDDCPFullVideoAdMediaExpireTimestampKey;//广告过期时长
+extern NSString *const kAdSetQDDAdSetQDDCPFullVideoAdMediaMediaExtConfigKey;//媒体个性化参数
+extern NSString *const kAdSetQDDAdSetQDDCPFullVideoAdMediaAdnNameKey;//广告源名称
+extern NSString *const kAdSetQDDAdSetQDDCPFullVideoAdMediaPresentVCKey;// 广告展示的控制器
+extern NSString *const kAdSetQDDAdSetQDDCPFullVideoAdMediaAutoRenderKey;//是否自动渲染
+extern NSString *const kAdSetQDDAdSetQDDCPFullVideoAdMediaADNAcceptIDKey;//当前广告源接受方ID
 
 @interface AdSetQDDCPFullVideoAdConfigModel : NSObject
 /**

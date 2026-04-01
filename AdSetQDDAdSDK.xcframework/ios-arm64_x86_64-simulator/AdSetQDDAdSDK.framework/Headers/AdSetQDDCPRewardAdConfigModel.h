@@ -10,19 +10,19 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-extern NSString *const kAdSetQDDCPRewardAdMediaDrawingKey;//请求开屏展示类型
-extern NSString *const kAdSetQDDCPRewardAdMediaVideoMutedKey;//设置视频静音开关
-extern NSString *const kAdSetQDDCPRewardAdMediaClkLimitKey;//广告请求接口类型
-extern NSString *const kAdSetQDDCPRewardAdMediaUserIDKey;//设置的userId
-extern NSString *const kAdSetQDDCPRewardAdMediaDirectionKey;//视频展示方向
-extern NSString *const kAdSetQDDCPRewardAdMediaRewardCountKey;//奖励数量
-extern NSString *const kAdSetQDDCPRewardAdMediaRewardNameKey;//奖励名称
-extern NSString *const kAdSetQDDCPRewardAdMediaExpireTimestampKey;//
-extern NSString *const kAdSetQDDCPRewardAdMediaMediaExtConfigKey;//媒体个性化参数
-extern NSString *const kAdSetQDDCPRewardAdMediaAdnNameKey;//广告源名称
-extern NSString *const kAdSetQDDCPRewardAdMediaPresentVCKey;// 广告展示的控制器
-extern NSString *const kAdSetQDDCPRewardAdMediaAutoRenderKey;//是否自动渲染
-extern NSString *const kAdSetQDDCPRewardAdMediaADNAcceptIDKey;//当前广告源接受方ID
+extern NSString *const kAdSetQDDAdSetQDDCPRewardAdMediaDrawingKey;//请求开屏展示类型
+extern NSString *const kAdSetQDDAdSetQDDCPRewardAdMediaVideoMutedKey;//设置视频静音开关
+extern NSString *const kAdSetQDDAdSetQDDCPRewardAdMediaClkLimitKey;//广告请求接口类型
+extern NSString *const kAdSetQDDAdSetQDDCPRewardAdMediaUserIDKey;//设置的userId
+extern NSString *const kAdSetQDDAdSetQDDCPRewardAdMediaDirectionKey;//视频展示方向
+extern NSString *const kAdSetQDDAdSetQDDCPRewardAdMediaRewardCountKey;//奖励数量
+extern NSString *const kAdSetQDDAdSetQDDCPRewardAdMediaRewardNameKey;//奖励名称
+extern NSString *const kAdSetQDDAdSetQDDCPRewardAdMediaExpireTimestampKey;//
+extern NSString *const kAdSetQDDAdSetQDDCPRewardAdMediaMediaExtConfigKey;//媒体个性化参数
+extern NSString *const kAdSetQDDAdSetQDDCPRewardAdMediaAdnNameKey;//广告源名称
+extern NSString *const kAdSetQDDAdSetQDDCPRewardAdMediaPresentVCKey;// 广告展示的控制器
+extern NSString *const kAdSetQDDAdSetQDDCPRewardAdMediaAutoRenderKey;//是否自动渲染
+extern NSString *const kAdSetQDDAdSetQDDCPRewardAdMediaADNAcceptIDKey;//当前广告源接受方ID
 
 @interface AdSetQDDCPRewardAdConfigModel : NSObject
 /**

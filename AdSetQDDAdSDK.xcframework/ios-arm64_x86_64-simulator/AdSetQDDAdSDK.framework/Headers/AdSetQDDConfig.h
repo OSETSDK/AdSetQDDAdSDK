@@ -8,15 +8,15 @@
 #import <AVFoundation/AVFoundation.h>
 #import <CoreLocation/CoreLocation.h>
 
-extern NSString *const kAdSetQDDConfigOldADValueKey;
-extern NSString *const kAdSetQDDConfigOldADVersionKey;
-extern NSString *const kAdSetQDDConfigNewADValueKey;
-extern NSString *const kAdSetQDDConfigNewADVersionKey;
+extern NSString *const kAdSetQDDAdSetQDDConfigOldADValueKey;
+extern NSString *const kAdSetQDDAdSetQDDConfigOldADVersionKey;
+extern NSString *const kAdSetQDDAdSetQDDConfigNewADValueKey;
+extern NSString *const kAdSetQDDAdSetQDDConfigNewADVersionKey;
 
 @interface AdSetQDDAdSensorConfigSetting : NSObject
-//AdSetQDD广告交互（摇一摇/扭一扭）开关 默认开启 全局生效 YES：代表开启 NO：代表关闭
+//神蓍广告交互（摇一摇/扭一扭）开关 默认开启 全局生效 YES：代表开启 NO：代表关闭
 @property(nonatomic,assign)BOOL adsetqddShakableSwitch;
-//AdSetQDD传感器开关 全局生效 默认开启 如禁用传感器功能，则广告交互（摇一摇/扭一扭）也失效  YES：代表开启 NO：代表关闭
+//神蓍传感器开关 全局生效 默认开启 如禁用传感器功能，则广告交互（摇一摇/扭一扭）也失效  YES：代表开启 NO：代表关闭
 @property(nonatomic,assign)BOOL adsetqddSensorSwitch;
 //广点通广告交互（摇一摇/扭一扭）开关 默认开启 全局生效  YES：代表开启 NO：代表关闭
 @property(nonatomic,assign)BOOL gdtShakableSwitch;
@@ -43,17 +43,13 @@ extern NSString *const kAdSetQDDConfigNewADVersionKey;
  */
 @property(nonatomic,copy,class,getter=getExt)NSString *ext;
 /**
- 4 位数字出生年
- */
-@property(nonatomic,copy,class,getter=getYob)NSString *yob;
-/**
  是否开启个性化推荐（默认开启推荐 Yes：推荐 NO：不推荐）
  注意⚠️：请在设置appid（setAppId:(NSString *)appId;）后调用
  */
 @property(nonatomic,assign,class)BOOL enablePersonalRecommend;
 /**
  屏蔽策略注意事项⚠️
- 1、以下参数为全局参数，一经设置，所有广告类型都将生效（仅屏蔽AdSetQDD平台下广告），当再次设置，上一次设置将会失效。
+ 1、以下参数为全局参数，一经设置，所有广告类型都将生效（仅屏蔽神蓍平台下广告），当再次设置，上一次设置将会失效。
  2、如需取消屏蔽策略，将参数传入nil即可生效
  3、如需上次设置生效可将上次传入的ID置于当前集合中传入
  4、务必在加载广告前传入
@@ -70,14 +66,6 @@ extern NSString *const kAdSetQDDConfigNewADVersionKey;
  设置禁止投放广告主ID
  */
 @property(nonatomic,strong,class)NSArray<NSString *> *denyAderIds;
-/**
- 获取性别（字符串）:(-1:未知、男:01、女:10)
- */
-@property(nonatomic,copy,class,readonly)NSString *genderStr;
-/**
- 性别:(-1:未知、男:01、女:10)
- */
-@property(nonatomic,assign,class,getter=getGender)AdSetQDDGender gender;
 /**
  用户感兴趣关键词多个用英文逗号隔(Get 请求需做 urlencode)
  */
@@ -123,13 +111,13 @@ extern NSString *const kAdSetQDDConfigNewADVersionKey;
 /**
  禁用IDFA 默认 NO
  注意⚠️：禁用IDFA后会影响广告收益
- 仅AdSetQDD、百度、京东、广点通、快手支持设置
+ 仅神蓍、百度、京东、广点通、快手支持设置
  设置时机：加载广告前
  */
 + (void)forbiddenIDFA:(BOOL)forbiddened;
 /**
  媒体自定义idfa
- 仅AdSetQDD、穿山甲、快手、京东支持设置
+ 仅神蓍、穿山甲、快手、京东支持设置
  设置时机：加载广告前
  */
 + (void)setCustomIDFA:(NSString *)idfa;
@@ -172,19 +160,19 @@ extern NSString *const kAdSetQDDConfigNewADVersionKey;
 /**
  是否开启定位权限 默认开启（如媒体默认开启该权限，不必再调用该权限接口）
  注意：
- 1、仅支持AdSetQDD、京东、快手、穿山甲、百度该设置
+ 1、仅支持神蓍、京东、快手、穿山甲、百度该设置
  2、如果关闭定位功能后，不传入经纬度，则默认为0处理，可能会影响三方投放广告策略，请谨慎设置该权限
  注意⚠️设置时机：sdk初始化block中调用
  */
 + (void)canUseLocation:(BOOL)isOpen;
 /**
  自定义经纬度 （如媒体默认使用sdk内部经纬度，不必再调用该接口）
- 注意：仅支持AdSetQDD、京东、快手、穿山甲、广点通该设置
+ 注意：仅支持神蓍、京东、快手、穿山甲、广点通该设置
  */
 + (void)setUpLatitude:(CLLocationDegrees)latitude Longitude:(CLLocationDegrees)longitude;
 /**
  是否获取ip地址 默认开启 （如媒体默认开启该权限，不必再调用该权限接口）
- 注意：仅支持AdSetQDD、京东该设置
+ 注意：仅支持神蓍、京东该设置
  */
 + (void)canUseIPAddress:(BOOL)isCanUseIP;
 /**
@@ -205,4 +193,10 @@ extern NSString *const kAdSetQDDConfigNewADVersionKey;
  * 设置时机：初始化sdk前传入
  */
 + (void)configAdSensorFunction:(void(^)(AdSetQDDAdSensorConfigSetting *config))configBlock;
+/**
+ 是否使用磁盘权限 默认YES
+ 如果关闭，会影响广告收益
+ 设置时机：sdk初始化时
+ */
++ (void)canUseDiskPermission:(BOOL)isOpen;
 @end

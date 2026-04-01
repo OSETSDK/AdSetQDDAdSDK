@@ -31,7 +31,7 @@ NS_ASSUME_NONNULL_BEGIN
  */
 - (NSDictionary *)adapterCustomInfo;
 /**
- 获取AdSetQDD平台上配置的个性化参数
+ 获取神蓍平台上配置的个性化参数
  */
 - (void)configMediaParamsOnPlatform:(NSDictionary *)mediaParams;
 //发送竞胜结果

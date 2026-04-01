@@ -75,7 +75,7 @@ typedef NS_ENUM(NSInteger,AdSetQDDRewardAdShowDirection) {
 @property(nonatomic,strong)UIView *bottomView;
  /**
   自定义跳过控件
-  只支持AdSetQDD平台
+  只支持神蓍平台
   */
 @property(nonatomic,strong)UIView *skipView;
 /**
@@ -89,29 +89,29 @@ typedef NS_ENUM(NSInteger,AdSetQDDRewardAdShowDirection) {
  隐藏跳过按钮 （YES：隐藏 NO：展示）默认展示
  注意⚠️：
  1、加载广告前设置有效
- 2、仅AdSetQDD支持设置隐藏跳过按钮
+ 2、仅神蓍支持设置隐藏跳过按钮
  */
 @property(nonatomic,assign)BOOL hideSkipButton;
 /**
  开屏广告页是否开启状态栏 hideSplashStatusBar（YES：隐藏 NO：展示）默认展示
- 只支持AdSetQDD平台
+ 只支持神蓍平台
  */
 @property(nonatomic,assign)BOOL hideSplashStatusBar;
 /**
  广告展示时间
- 只支持AdSetQDD平台
+ 只支持神蓍平台
  */
 @property(nonatomic,assign)NSInteger showTime;
 
 /**
  开屏广告加载背景图-占位图
- 只支持AdSetQDD平台
+ 只支持神蓍平台
  */
 @property(nonatomic,strong)UIImage *backgroundImage;
 /**
  开屏背景图填充模式。默认 UIViewContentModeScaleAspectFit
  只有设置 背景加载背景图 后有效
- 只支持AdSetQDD平台
+ 只支持神蓍平台
  */
 @property(nonatomic,assign)UIViewContentMode bgContentMode;
 /**
@@ -126,7 +126,7 @@ typedef NS_ENUM(NSInteger,AdSetQDDRewardAdShowDirection) {
 /**
  设置视频是否开启静音，默认不开启，加载广告前设置有效
  注意事项：
- 1、此设置仅支持 快手 广点通 AdSetQDD，
+ 1、此设置仅支持 快手 广点通 神蓍，
  2、快手 穿山甲需在三方平台广告位上设置
  */
 @property(nonatomic,assign)BOOL videoMuted;
@@ -167,12 +167,12 @@ typedef NS_ENUM(NSInteger,AdSetQDDRewardAdShowDirection) {
 /**
  * 是否静音，默认 YES。
  * 设置时机：加载广告前。
- * 注意事项：此设置仅支持 快手 广点通 AdSetQDD ，其他平台需在三方平台广告位进行设置
+ * 注意事项：此设置仅支持 快手 广点通 神蓍 ，其他平台需在三方平台广告位进行设置
  */
 @property (nonatomic,assign)BOOL videoMuted;
 /**
  * 点击广告后是否关闭广告，默认 NO，即手动关闭。加载广告前设置。
- * 注意：此设置仅对AdSetQDD平台广告生效
+ * 注意：此设置仅对神蓍平台广告生效
  */
 @property (nonatomic,assign)BOOL isNeedCloseAdAfterClick;
 
@@ -202,7 +202,7 @@ typedef NS_ENUM(NSInteger,AdSetQDDRewardAdShowDirection) {
  注意⚠️⚠️⚠️此参数针对模版广告有效
  设置图片高度
  提示：
- 1、仅支持AdSetQDD平台左图右文样式调整
+ 1、仅支持神蓍平台左图右文样式调整
  传入时机：加载广告前
  */
 @property(nonatomic,assign)CGFloat imageHeight;
@@ -223,7 +223,7 @@ typedef NS_ENUM(NSInteger,AdSetQDDRewardAdShowDirection) {
 /**
  是否自动播放 默认 YES
  传入时机：加载广告前
- 仅AdSetQDD 广点通平台设置有效
+ 仅神蓍 广点通平台设置有效
  */
 @property(nonatomic,assign)BOOL isAutoPlay;
 
@@ -234,7 +234,7 @@ typedef NS_ENUM(NSInteger,AdSetQDDRewardAdShowDirection) {
 /**
  *  是否静音，默认 YES。
  *  设置时机：加载广告前设置。
- *  仅 快手 AdSetQDD平台设置有效
+ *  仅 快手 神蓍平台设置有效
  */
 @property(nonatomic,assign)BOOL videoMuted;
 

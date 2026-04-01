@@ -40,7 +40,7 @@
  */
 - (void)adsetqddSplashExposure:(AdSetQDDSplashAd *)splashAd;
 /**
- * 开屏广告展示剩余时间（支持AdSetQDD、广点通）
+ * 开屏广告展示剩余时间（支持神蓍、广点通）
  */
 - (void)adsetqddSplashAdLifeTime:(NSInteger)time splashAd:(AdSetQDDSplashAd *)splashAd;
 /**

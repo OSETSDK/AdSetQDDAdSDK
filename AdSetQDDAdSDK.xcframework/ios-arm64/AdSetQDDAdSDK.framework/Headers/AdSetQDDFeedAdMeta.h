@@ -59,14 +59,14 @@ typedef NS_ENUM(NSInteger, AdSetQDDAdInteractionType) {
 - (NSString * _Nullable)metaAppDownloadCountDesc;//应用下载数【支持平台：快手】
 /**
  获取图片素材
- 注意：如果素材是视频类型，该接口返回封面，封面可能为空【封面支持平台：AdSetQDD】
+ 注意：如果素材是视频类型，该接口返回封面，封面可能为空【封面支持平台：神蓍】
  */
 
 - (CGSize)metaMainImageSize;//主图图片尺寸
 
 - (NSArray<NSString *> * _Nullable)metaImageUrls;//多图信息流
 
-- (NSString * _Nullable)metaVideoUrl;//信息流视频【支持平台：AdSetQDD】
+- (NSString * _Nullable)metaVideoUrl;//信息流视频【支持平台：神蓍】
 
 - (NSTimeInterval)metaVideoDuration;//视频时长
 
@@ -84,9 +84,9 @@ typedef NS_ENUM(NSInteger, AdSetQDDAdInteractionType) {
  广告交互仅支持摇一摇/扭一扭触发一次，摇一摇/扭一扭触发后交互类型将调整为普通交互类型，媒体在收到点击回调后根据交互类型刷新交互图标
  如交互类型为普通交互则不再展示摇一摇或扭一扭图标
  */
-- (AdSetQDDAdInteractionType)metaAdInteractionType;//广告点击交互(仅AdSetQDD渠道支持该配置)
+- (AdSetQDDAdInteractionType)metaAdInteractionType;//广告点击交互(仅神蓍渠道支持该配置)
 
-- (UIImageView * _Nullable)metaShakeTwistImageView;//摇一摇或扭一扭图标 注意广告交互为摇一摇或扭一扭才存在该图标(仅AdSetQDD渠道支持该配置)
+- (UIImageView * _Nullable)metaShakeTwistImageView;//摇一摇或扭一扭图标 注意广告交互为摇一摇或扭一扭才存在该图标(仅神蓍渠道支持该配置)
 
 #pragma mark- Action
 /**

@@ -10,16 +10,16 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-extern NSString *const kAdSetQDDCPBannerAdMediaDrawingKey;//请求展示类型
-extern NSString *const kAdSetQDDCPBannerAdMediaVideoMutedKey;//设置视频静音开关
-extern NSString *const kAdSetQDDCPBannerAdMediaShowCloseBtnKey;//是否展示关闭按钮
-extern NSString *const kAdSetQDDCPBannerAdMediaIntervalKey;//banner刷新时长
-extern NSString *const kAdSetQDDCPBannerAdMediaClkLimitKey;//广告交互类型
-extern NSString *const kAdSetQDDCPBannerAdMediaExpireTimestampKey;//广告过期时长
-extern NSString *const kAdSetQDDCPBannerAdMediaMediaExtConfigKey;//媒体个性化参数
-extern NSString *const kAdSetQDDCPBannerAdMediaAdnNameKey;//广告源名称
-extern NSString *const kAdSetQDDCPBannerAdMediaAutoRenderKey;//是否自动渲染
-extern NSString *const kAdSetQDDCPBannerAdMediaADNAcceptIDKey;//当前广告源接受方ID
+extern NSString *const kAdSetQDDAdSetQDDCPBannerAdMediaDrawingKey;//请求展示类型
+extern NSString *const kAdSetQDDAdSetQDDCPBannerAdMediaVideoMutedKey;//设置视频静音开关
+extern NSString *const kAdSetQDDAdSetQDDCPBannerAdMediaShowCloseBtnKey;//是否展示关闭按钮
+extern NSString *const kAdSetQDDAdSetQDDCPBannerAdMediaIntervalKey;//banner刷新时长
+extern NSString *const kAdSetQDDAdSetQDDCPBannerAdMediaClkLimitKey;//广告交互类型
+extern NSString *const kAdSetQDDAdSetQDDCPBannerAdMediaExpireTimestampKey;//广告过期时长
+extern NSString *const kAdSetQDDAdSetQDDCPBannerAdMediaMediaExtConfigKey;//媒体个性化参数
+extern NSString *const kAdSetQDDAdSetQDDCPBannerAdMediaAdnNameKey;//广告源名称
+extern NSString *const kAdSetQDDAdSetQDDCPBannerAdMediaAutoRenderKey;//是否自动渲染
+extern NSString *const kAdSetQDDAdSetQDDCPBannerAdMediaADNAcceptIDKey;//当前广告源接受方ID
 
 @interface AdSetQDDCPBannerAdConfigModel : NSObject
 /**

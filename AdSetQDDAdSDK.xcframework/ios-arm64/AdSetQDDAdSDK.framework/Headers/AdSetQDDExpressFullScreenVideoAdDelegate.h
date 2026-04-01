@@ -52,17 +52,17 @@
 - (void)adsetqddExpressFullScreenVideoAdDidPlayFinish:(AdSetQDDExpressFullScreenVideoAd *)video withError:(NSError *)error;;
 /**
  全屏视频已被关闭
- @param progress 该参数仅在AdSetQDD、百度平台下有效
+ @param progress 该参数仅在神蓍、百度平台下有效
  */
 - (void)adsetqddExpressFullScreenVideoAdDidClose:(AdSetQDDExpressFullScreenVideoAd *)video withPlayingProgress:(CGFloat)progress;
 /**
  全屏视频跳过按钮被点击
- @param progress 该参数仅在AdSetQDD、百度平台下有效
+ @param progress 该参数仅在神蓍、百度平台下有效
  */
 - (void)adsetqddExpressFullScreenVideoAdDidSkip:(AdSetQDDExpressFullScreenVideoAd *)video withPlayingProgress:(CGFloat)progress;
 /**
  全屏视频被点击
- @param progress 该参数仅在AdSetQDD、百度平台下有效
+ @param progress 该参数仅在神蓍、百度平台下有效
  */
 - (void)adsetqddExpressFullScreenVideoAdDidClick:(AdSetQDDExpressFullScreenVideoAd *)video withPlayingProgress:(CGFloat)progress;
 @end

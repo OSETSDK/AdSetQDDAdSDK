@@ -42,7 +42,13 @@ NS_ASSUME_NONNULL_BEGIN
  *  原生广告模版渲染失败调用
  */
 - (void)adsetqddCustomNativeRenderError:(UIView *)adView error:(NSError *)error;
-/// 原生广告即将展现调用
+/// 原生广告添加到广告位容器时调用
+/// @param feedAdData 如果是自渲染类型feedAdData参数传入广告物料对象，模版类型不传
+/// @param adContainerView 如果是自渲染类型传入广告容器，模版类型传广告模版view
+/// @param extInfo 媒体自定义参数
+///
+- (void)adsetqddCustomNativeMoveToAdContainer:(id<AdSetQDDFeedAdMeta> _Nullable)feedAdData adContainerView:(UIView *)adContainerView extInfo:(NSDictionary *_Nullable)extInfo;
+/// 原生广告展现调用
 /// @param feedAdData 如果是自渲染类型feedAdData参数传入广告物料对象，模版类型不传
 /// @param adContainerView 如果是自渲染类型传入广告容器，模版类型传广告模版view
 /// @param extInfo 媒体自定义参数

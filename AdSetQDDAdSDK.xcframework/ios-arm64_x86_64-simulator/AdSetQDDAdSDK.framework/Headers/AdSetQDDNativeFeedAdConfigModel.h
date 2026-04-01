@@ -10,22 +10,22 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-extern NSString *const kAdSetQDDCPNativeFeedAdMediaDrawingKey;//请求开屏展示类型
-extern NSString *const kAdSetQDDCPNativeFeedAdMediaRequestAdSizeKey;//请求信息流size
-extern NSString *const kAdSetQDDCPNativeFeedAdMediaRequestAdCountKey;//请求信息流count
-extern NSString *const kAdSetQDDCPNativeFeedAdMediaVideoMutedKey;//设置视频静音开关
-extern NSString *const kAdSetQDDCPNativeFeedAdMediaVideoAutoPlayKey;//设置视频自动播放
-extern NSString *const kAdSetQDDCPNativeFeedAdMediaClkLimitKey;//广告请求接口类型
-extern NSString *const kAdSetQDDCPNativeFeedAdMediaExpireTimestampKey;//
-extern NSString *const kAdSetQDDCPNativeFeedAdMediaMediaExtConfigKey;//媒体个性化参数
-extern NSString *const kAdSetQDDCPNativeFeedAdMediaAdnNameKey;//广告源名称
-extern NSString *const kAdSetQDDCPNativeFeedAdMediaAdnPidKey;//当前广告源广告位ID
-extern NSString *const kAdSetQDDCPNativeFeedAdMediaMediationPidKey;//聚合广告位ID
-extern NSString *const kAdSetQDDCPNativeFeedAdMediaADNAcceptIDKey;//当前广告源接受方ID
-extern NSString *const kAdSetQDDCPNativeFeedAdMediaShowVideoDetailKey;//展示Video详情
-extern NSString *const kAdSetQDDCPNativeFeedAdMediaShowLogoKey;//展示Video详情
-extern NSString *const kAdSetQDDCPNativeFeedAdMediaRequestAdInterfaceKey;//广告请求接口类型
-extern NSString *const kAdSetQDDCPNativeFeedAdMediaAutoRenderKey;//是否自动渲染
+extern NSString *const kAdSetQDDAdSetQDDCPNativeFeedAdMediaDrawingKey;//请求开屏展示类型
+extern NSString *const kAdSetQDDAdSetQDDCPNativeFeedAdMediaRequestAdSizeKey;//请求信息流size
+extern NSString *const kAdSetQDDAdSetQDDCPNativeFeedAdMediaRequestAdCountKey;//请求信息流count
+extern NSString *const kAdSetQDDAdSetQDDCPNativeFeedAdMediaVideoMutedKey;//设置视频静音开关
+extern NSString *const kAdSetQDDAdSetQDDCPNativeFeedAdMediaVideoAutoPlayKey;//设置视频自动播放
+extern NSString *const kAdSetQDDAdSetQDDCPNativeFeedAdMediaClkLimitKey;//广告请求接口类型
+extern NSString *const kAdSetQDDAdSetQDDCPNativeFeedAdMediaExpireTimestampKey;//
+extern NSString *const kAdSetQDDAdSetQDDCPNativeFeedAdMediaMediaExtConfigKey;//媒体个性化参数
+extern NSString *const kAdSetQDDAdSetQDDCPNativeFeedAdMediaAdnNameKey;//广告源名称
+extern NSString *const kAdSetQDDAdSetQDDCPNativeFeedAdMediaAdnPidKey;//当前广告源广告位ID
+extern NSString *const kAdSetQDDAdSetQDDCPNativeFeedAdMediaMediationPidKey;//聚合广告位ID
+extern NSString *const kAdSetQDDAdSetQDDCPNativeFeedAdMediaADNAcceptIDKey;//当前广告源接受方ID
+extern NSString *const kAdSetQDDAdSetQDDCPNativeFeedAdMediaShowVideoDetailKey;//展示Video详情
+extern NSString *const kAdSetQDDAdSetQDDCPNativeFeedAdMediaShowLogoKey;//展示Video详情
+extern NSString *const kAdSetQDDAdSetQDDCPNativeFeedAdMediaRequestAdInterfaceKey;//广告请求接口类型
+extern NSString *const kAdSetQDDAdSetQDDCPNativeFeedAdMediaAutoRenderKey;//是否自动渲染
 
 @interface AdSetQDDNativeFeedAdConfigModel : NSObject
 /**
