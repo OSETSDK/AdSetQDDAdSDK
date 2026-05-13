@@ -190,7 +190,7 @@ typedef NS_ENUM(NSInteger,AdSetQDDRewardAdShowDirection) {
  * 视频广告是否显示视频详情页面，默认为 NO，点击直接跳转网页，设置为YES时，点击后显示视频详情页面
  * 传入时机：加载广告前
  */
-@property(nonatomic,assign)BOOL showVideoDetail;
+@property(nonatomic,assign)BOOL showVideoDetail __attribute__((deprecated("该接口已废弃")));
 /**
  注意⚠️⚠️⚠️此参数针对模版广告有效
  通过此参数设置模版的上下左右边距

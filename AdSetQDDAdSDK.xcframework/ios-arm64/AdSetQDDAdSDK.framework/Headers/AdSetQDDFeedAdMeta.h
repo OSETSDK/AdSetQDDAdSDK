@@ -46,6 +46,8 @@ typedef NS_ENUM(NSInteger, AdSetQDDAdInteractionType) {
 
 - (NSString * _Nullable)metaSource;//来源
 
+- (NSString * _Nullable)metaAppName;//应用名称【支持平台：MS】
+
 - (NSString * _Nullable)metaAppScore;//应用评分 应用类广告的星级（5星制度）【支持平台：穿山甲、快手、广点通】
 
 - (NSString * _Nullable)metaAppCommentNum;//应用评论数【支持平台：穿山甲】

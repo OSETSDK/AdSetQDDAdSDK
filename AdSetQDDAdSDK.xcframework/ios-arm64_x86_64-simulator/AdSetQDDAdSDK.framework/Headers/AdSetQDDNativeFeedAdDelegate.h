@@ -54,15 +54,35 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)adsetqddNativeFeedAdVideoStateDidChanged:(AdSetQDDPlayerPlayState)playerState
                                     feedAd:(AdSetQDDNativeFeedAdModel *)feedAd;
 /**
- *注意⚠️：当该广告物料是⚠️自渲染广告⚠️时触发此回调
+ *注意⚠️：当该广告物料是自渲染广告时触发此回调
  *  原生广告点击之后将要展示内嵌浏览器或应用内AppStore回调
  */
-- (void)adsetqddNativeFeedAdDetailShow;
+- (void)adsetqddNativeFeedAdDetailShow __attribute__((deprecated("Use adsetqddNativeFeedAdDetailShow: openType: instead.")));
 /**
- *注意⚠️：当该广告物料是⚠️自渲染广告⚠️时触发此回调
+ *注意⚠️：当该广告物料是自渲染广告时触发此回调
+ *  原生广告点击之后将要展示内嵌浏览器或应用内AppStore回调
+ *  @param feedAd 当前点击广告对象 [⚠️仅支持神蓍返回该参数]
+ *  @param openType 打开是普通H5页面/应用内AppStore页面 [⚠️仅支持神蓍返回该参数]
+ */
+- (void)adsetqddNativeFeedAdDetailShow:(AdSetQDDNativeFeedAdModel *_Nullable)feedAd openType:(AdSetQDDDetailType)openType;
+/**
+ *注意⚠️：当该广告物料是自渲染广告时触发此回调
  * 新原生广告点击以后，内置AppStore或是内置浏览器被关闭时回调
  */
-- (void)adsetqddNativeFeedAdDetailClosed;
+- (void)adsetqddNativeFeedAdDetailClosed __attribute__((deprecated("Use adsetqddNativeFeedAdDetailClosed: closeType: instead.")));
+/**
+ *注意⚠️：当该广告物料是自渲染广告时触发此回调
+ * 新原生广告点击以后，内置AppStore或是内置浏览器被关闭时回调
+ *  @param feedAd 当前点击广告对象 [⚠️仅支持神蓍返回该参数]
+ *  @param closeType 关闭是普通H5页面/应用内AppStore页面 [⚠️仅支持神蓍返回该参数]
+ */
+- (void)adsetqddNativeFeedAdDetailClosed:(AdSetQDDNativeFeedAdModel *_Nullable)feedAd closeType:(AdSetQDDDetailType)closeType;
+/**
+ *注意⚠️：当该广告物料是自渲染广告时触发此回调
+ * 新原生广告点击以后，内置AppStore或是内置浏览器被关闭时回调
+ * @param feedAd 当前点击广告对象 [仅支持神蓍返回该参数]
+ */
+- (void)adsetqddNativeFeedAdDidJumpToExternalApp:(AdSetQDDNativeFeedAdModel *_Nullable)feedAd;
 
 @end
 #pragma mark 信息流混合广告扩展功能回调（包含统计、获取个性化参数等回调）

@@ -123,3 +123,12 @@ typedef NS_ENUM(NSInteger,AdSetQDDAdOpenDPType) {
     AdSetQDDAdOpenDPSuccess = 1,//唤起成功
     AdSetQDDAdOpenDPFail    = 2 //唤起失败
 };
+/**
+ 广告跳转类型，是否deeplink
+ */
+typedef NS_ENUM(NSInteger, AdSetQDDDetailType) {
+    AdSetQDDDetailUnknown      = -1, //未知
+    AdSetQDDDetailPage         = 0, // H5详情页
+    AdSetQDDDetailApp          = 1, // 跳转app
+    AdSetQDDDetailStoreInApp   = 2, // 应用内商店
+};
